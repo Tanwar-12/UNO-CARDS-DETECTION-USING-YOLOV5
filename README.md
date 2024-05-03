@@ -46,10 +46,18 @@ names: ['0', '10', '11', '12', '13', '14', '2', '3', '4', '5', '6', '7', '8', '9
 * Visualise the training metrics with the help of tensorboard.
 
  ## TESTING IMAGES USING TEST DATA:
+![image](https://github.com/Tanwar-12/UNO-CARDS-DETECTION-USING-YOLOV5/assets/110081008/8e15d03d-6125-4e3e-834b-185443d5158d)
+![image](https://github.com/Tanwar-12/UNO-CARDS-DETECTION-USING-YOLOV5/assets/110081008/519ca110-400c-4aab-be55-8c52f22e5d63)
+![image](https://github.com/Tanwar-12/UNO-CARDS-DETECTION-USING-YOLOV5/assets/110081008/b08fc11c-bb89-4ef5-883d-81955d9cf762)
+![image](https://github.com/Tanwar-12/UNO-CARDS-DETECTION-USING-YOLOV5/assets/110081008/588b4641-8150-4173-92b5-361e19485b98)
 
 ## TESTING VIDEO DEMO :
 
   
+
+https://github.com/Tanwar-12/UNO-CARDS-DETECTION-USING-YOLOV5/assets/110081008/f7fe86bb-95fa-487f-8799-d28052c8cea3
+
+
 
 
 
